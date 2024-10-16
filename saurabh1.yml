@@ -1,0 +1,7 @@
+{
+"Resources" : {
+    "water445" : {
+       "Type" : "AWS::S3::Bucket"
+       }
+    }
+}
